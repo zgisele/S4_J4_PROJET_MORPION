@@ -1,8 +1,8 @@
 
 ##Table des matières
-#Introduction
-#Fonctionnalités
-#Utilisation
+Introduction
+Fonctionnalités
+Utilisation
 
 
 ##Introduction
